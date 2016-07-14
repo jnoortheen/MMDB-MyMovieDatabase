@@ -1,6 +1,6 @@
 MMDB-MyMovieDatabase
 ====================
-A sample python script to generate web page to show favorite movies from available Movie objects list.
+A sample python commandline application to generate web page to show favorite movies from available Movie objects list.
 This can also be used as an command line to add their own favorite movies to the list.
 
 Requirements:
